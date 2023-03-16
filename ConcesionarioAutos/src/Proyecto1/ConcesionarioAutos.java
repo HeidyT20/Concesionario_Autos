@@ -10,4 +10,9 @@ package Proyecto1;
  */
 public class ConcesionarioAutos {
     
+    public static void main(String[] args) {
+        
+        //Primer comentario en Apache netBeans
+        System.out.println("Hello Word");
+    }
 }
